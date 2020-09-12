@@ -7,8 +7,8 @@ These tools are
 
 The dataset which I have used is Framingham Heart  Study Dataset available in Kaggle. It has considerable amount of missing values which will give you idea how these tools 
 handle missing values. The goal is to compare all the three tools based on the following:
--> Accuracy Achieved 
--> Ease to understand and implement score
--> Time taken to complete the task 
+-> Accuracy Achieved                                                                                                                                             
+-> Ease to understand and implement score                                                                                                                        
+-> Time taken to complete the task                                                                                                                                          
 
 This is regarding the blog which I wrote where I briefy describe all these tools, their pros and cons. Please go through that blog for more information.
