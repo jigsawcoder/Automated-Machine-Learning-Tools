@@ -6,7 +6,7 @@ These tools are
 3) AutoGluon. 
 
 The dataset which I have used is Framingham Heart  Study Dataset available in Kaggle. It has considerable amount of missing values which will give you idea how these tools 
-handle missing values. The goal is to compare all the three tools based on the following:
+handle missing values. The goal is to compare all the three tools based on the following:                                                                                 
 -> Accuracy Achieved                                                                                                                                             
 -> Ease to understand and implement score                                                                                                                        
 -> Time taken to complete the task                                                                                                                                          
